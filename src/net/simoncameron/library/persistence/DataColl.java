@@ -107,4 +107,9 @@ public abstract class DataColl<T, V extends PersistentContainer<T>> {
         return coll.values();
     }
 
+    //Removes container from coll with key
+    public void remove(T key) {
+        coll.remove(key);
+    }
+
 }
