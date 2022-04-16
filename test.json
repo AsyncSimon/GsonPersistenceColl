@@ -1,0 +1,802 @@
+[
+  {
+    "id": "259f464e-ed8f-4cdb-baee-d54e981ccb3b",
+    "cratesBalance": {
+      "RARE": 16,
+      "EPIC": 2,
+      "COMMON": 6
+    }
+  },
+  {
+    "id": "3c6e77b7-3525-495f-bbf8-e6a06bc24a30",
+    "cratesBalance": {
+      "RARE": 11,
+      "EPIC": 7,
+      "LEGENDARY": 12
+    }
+  },
+  {
+    "id": "a1dbbdc8-9676-4fb7-adcc-8c9456fed17e",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 1,
+      "COMMON": 7
+    }
+  },
+  {
+    "id": "11994986-bd1b-4bae-ab37-aa23054b50e0",
+    "cratesBalance": {
+      "RARE": 3,
+      "EPIC": 10,
+      "COMMON": 5,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "7adc400c-352a-40c6-bfa5-9cc08e9fe6d0",
+    "cratesBalance": {
+      "RARE": 5,
+      "COMMON": 13,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "6963c418-b133-4c69-b183-2a10fc4033ea",
+    "cratesBalance": {
+      "RARE": 5,
+      "EPIC": 3,
+      "COMMON": 9,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "5db9cefa-540b-43db-b7f8-c2ffcec74c4e",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 2,
+      "COMMON": 11,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "0afb918d-7a3d-4b94-8a34-92603a9e5e0a",
+    "cratesBalance": {
+      "EPIC": 17,
+      "COMMON": 9,
+      "LEGENDARY": 19
+    }
+  },
+  {
+    "id": "457585f7-6530-427a-b4da-96a8d590b00f",
+    "cratesBalance": {
+      "EPIC": 9,
+      "COMMON": 3,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "67870d66-2196-4a7b-8cc2-e4390dc97713",
+    "cratesBalance": {
+      "RARE": 13,
+      "EPIC": 8,
+      "COMMON": 7
+    }
+  },
+  {
+    "id": "5d045e99-91be-4833-817e-b866ee2b8912",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 14,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "a3b9410e-02e9-4788-b283-0ca71090f656",
+    "cratesBalance": {
+      "RARE": 16,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "70643bc7-a370-4aab-a211-3ba2fd5db5a0",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 2,
+      "COMMON": 13
+    }
+  },
+  {
+    "id": "eea1a1bf-7233-472f-843c-0489cc7230f2",
+    "cratesBalance": {
+      "RARE": 1,
+      "EPIC": 12,
+      "COMMON": 7
+    }
+  },
+  {
+    "id": "e2b50a96-4698-436e-844d-50d261d634a4",
+    "cratesBalance": {
+      "RARE": 8,
+      "COMMON": 6,
+      "LEGENDARY": 23
+    }
+  },
+  {
+    "id": "658b605c-97e8-4e98-a5e9-87b80aed7b23",
+    "cratesBalance": {
+      "RARE": 25,
+      "LEGENDARY": 5
+    }
+  },
+  {
+    "id": "2a9cff05-c3b9-49bc-842e-0fd47389f8d4",
+    "cratesBalance": {
+      "RARE": 14,
+      "COMMON": 19
+    }
+  },
+  {
+    "id": "763e6d65-ec4f-4ced-88b3-78e5f5187988",
+    "cratesBalance": {
+      "RARE": 16,
+      "COMMON": 5,
+      "LEGENDARY": 13
+    }
+  },
+  {
+    "id": "b08bf610-5160-4837-97c7-1ed11d09f397",
+    "cratesBalance": {
+      "RARE": 2,
+      "EPIC": 25,
+      "COMMON": 2
+    }
+  },
+  {
+    "id": "baeed1e0-4d52-42e2-af79-7eef6d8fb5e3",
+    "cratesBalance": {
+      "RARE": 12,
+      "LEGENDARY": 12
+    }
+  },
+  {
+    "id": "f620e4da-12d2-4767-881a-37f0a175b997",
+    "cratesBalance": {
+      "RARE": 13,
+      "EPIC": 7,
+      "COMMON": 9
+    }
+  },
+  {
+    "id": "e37edcd5-e50b-4514-90b5-a71c0277c727",
+    "cratesBalance": {
+      "RARE": 27,
+      "EPIC": 12
+    }
+  },
+  {
+    "id": "49776b88-52bf-4454-b2f8-1796796edc59",
+    "cratesBalance": {
+      "RARE": 5,
+      "EPIC": 7,
+      "COMMON": 8
+    }
+  },
+  {
+    "id": "bfe10a41-a135-44e2-9b53-4e2c314df115",
+    "cratesBalance": {
+      "RARE": 8,
+      "EPIC": 6,
+      "LEGENDARY": 4
+    }
+  },
+  {
+    "id": "a22ce0ab-15fa-47de-bd07-196baaf5b468",
+    "cratesBalance": {
+      "RARE": 28,
+      "COMMON": 5,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "b69feb5a-eb9b-4d7c-b7a6-57234162c896",
+    "cratesBalance": {
+      "RARE": 18,
+      "EPIC": 8,
+      "COMMON": 5,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "e6d6ac61-65d6-4ea9-ab6d-7b18fc0b3de5",
+    "cratesBalance": {
+      "EPIC": 19,
+      "COMMON": 2,
+      "LEGENDARY": 4
+    }
+  },
+  {
+    "id": "36fd4216-1d90-4020-a76f-af52faef94dd",
+    "cratesBalance": {
+      "RARE": 18,
+      "LEGENDARY": 15
+    }
+  },
+  {
+    "id": "70a3b15e-9792-4ea2-99c1-893a0f519d30",
+    "cratesBalance": {
+      "RARE": 7,
+      "COMMON": 1,
+      "LEGENDARY": 22
+    }
+  },
+  {
+    "id": "d77f26b9-9f24-4bfa-8049-e0283a239201",
+    "cratesBalance": {
+      "EPIC": 15,
+      "COMMON": 14
+    }
+  },
+  {
+    "id": "4cd61fb0-c41d-499b-815c-02f1b99d79b0",
+    "cratesBalance": {
+      "EPIC": 21,
+      "LEGENDARY": 5
+    }
+  },
+  {
+    "id": "eeaa5ca9-5692-46c5-b89c-5516da5f64e0",
+    "cratesBalance": {
+      "RARE": 11,
+      "EPIC": 3,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "ccb1dc01-7de4-42eb-a2f9-387907894dd4",
+    "cratesBalance": {
+      "RARE": 9,
+      "COMMON": 18,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "15ff8fe7-0ccc-40dc-94f9-ef2474840239",
+    "cratesBalance": {
+      "EPIC": 15,
+      "COMMON": 20
+    }
+  },
+  {
+    "id": "c72c2555-0e43-4f12-842d-84e374d8ce55",
+    "cratesBalance": {
+      "EPIC": 14,
+      "COMMON": 10,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "d4c1f517-c719-40b5-b06f-c9e098b7b932",
+    "cratesBalance": {
+      "EPIC": 13,
+      "COMMON": 7,
+      "LEGENDARY": 6
+    }
+  },
+  {
+    "id": "72c7f829-412e-4a75-8e95-971fff9408d8",
+    "cratesBalance": {
+      "EPIC": 6,
+      "COMMON": 26,
+      "LEGENDARY": 8
+    }
+  },
+  {
+    "id": "9d9438df-2db9-437d-9c64-8242344db290",
+    "cratesBalance": {
+      "RARE": 3,
+      "EPIC": 4,
+      "COMMON": 13,
+      "LEGENDARY": 10
+    }
+  },
+  {
+    "id": "67845a5f-0034-451f-a5f0-5795661762ff",
+    "cratesBalance": {
+      "RARE": 1,
+      "COMMON": 9,
+      "LEGENDARY": 13
+    }
+  },
+  {
+    "id": "031a0462-1f7a-49ed-9525-074dc0f6c40c",
+    "cratesBalance": {
+      "RARE": 1,
+      "EPIC": 3,
+      "COMMON": 1,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "5bc56420-065d-4e3e-b21c-e23bd2ae8b71",
+    "cratesBalance": {
+      "RARE": 16,
+      "EPIC": 4,
+      "COMMON": 12
+    }
+  },
+  {
+    "id": "e497e6a5-6839-4dc9-ab82-0ecf19d152de",
+    "cratesBalance": {
+      "RARE": 2,
+      "EPIC": 19,
+      "COMMON": 9
+    }
+  },
+  {
+    "id": "0a4f8f60-49b9-409b-817e-7e5d6cc4dd68",
+    "cratesBalance": {
+      "EPIC": 15,
+      "COMMON": 16
+    }
+  },
+  {
+    "id": "4985efc9-7647-4d17-bcf4-1bcf70fd325c",
+    "cratesBalance": {
+      "RARE": 4,
+      "EPIC": 4,
+      "COMMON": 7,
+      "LEGENDARY": 4
+    }
+  },
+  {
+    "id": "7bca39c6-904c-4f99-aab2-0acfc68d47a4",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 10,
+      "COMMON": 5,
+      "LEGENDARY": 7
+    }
+  },
+  {
+    "id": "bf073330-d94c-46db-ba29-34c3b51176d4",
+    "cratesBalance": {
+      "EPIC": 13,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "4226c43e-01c1-4d06-8cc5-115c53322ee4",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 9,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "af71fc8d-b8be-4da8-a068-b9fb01c78a2f",
+    "cratesBalance": {
+      "RARE": 11,
+      "EPIC": 2,
+      "LEGENDARY": 7
+    }
+  },
+  {
+    "id": "fedfac06-2dd4-4766-a66e-d69d651bde1b",
+    "cratesBalance": {
+      "RARE": 10,
+      "EPIC": 14,
+      "COMMON": 7
+    }
+  },
+  {
+    "id": "10e538d4-44c9-4d94-8242-4c4e84c9b330",
+    "cratesBalance": {
+      "EPIC": 7,
+      "COMMON": 2,
+      "LEGENDARY": 26
+    }
+  },
+  {
+    "id": "b7300730-56eb-4ebb-adc8-80c8f83e43f2",
+    "cratesBalance": {
+      "RARE": 13,
+      "COMMON": 1,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "2b3b09cf-891b-4546-b14a-ef4d635c1153",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 8,
+      "LEGENDARY": 18
+    }
+  },
+  {
+    "id": "20a52822-649b-4de8-8ae3-df582e187cf2",
+    "cratesBalance": {
+      "RARE": 14,
+      "EPIC": 5,
+      "LEGENDARY": 7
+    }
+  },
+  {
+    "id": "13811101-f241-400e-a24b-02ddecb99246",
+    "cratesBalance": {
+      "RARE": 12,
+      "EPIC": 6,
+      "COMMON": 6
+    }
+  },
+  {
+    "id": "07a4a93d-e466-4070-b8ec-7a79104c9efa",
+    "cratesBalance": {
+      "RARE": 12,
+      "COMMON": 12,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "3a9caef5-35eb-4578-a946-52dc4828ade5",
+    "cratesBalance": {
+      "RARE": 12,
+      "EPIC": 8,
+      "COMMON": 3,
+      "LEGENDARY": 5
+    }
+  },
+  {
+    "id": "f071bc27-6d30-439e-a07f-044d8bff6298",
+    "cratesBalance": {
+      "RARE": 10,
+      "EPIC": 10,
+      "COMMON": 15
+    }
+  },
+  {
+    "id": "6038893f-83ac-41dd-a7b7-d721518382cd",
+    "cratesBalance": {
+      "RARE": 9,
+      "COMMON": 17,
+      "LEGENDARY": 10
+    }
+  },
+  {
+    "id": "9108447d-3e87-48c5-b218-1d00bf8ec40e",
+    "cratesBalance": {
+      "RARE": 10,
+      "COMMON": 4,
+      "LEGENDARY": 16
+    }
+  },
+  {
+    "id": "5caea3da-6dcf-487d-8786-d59d6f896afb",
+    "cratesBalance": {
+      "RARE": 10,
+      "EPIC": 23,
+      "COMMON": 8
+    }
+  },
+  {
+    "id": "05ccc78f-9b90-45a4-877e-c5bad0ea8beb",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 5,
+      "LEGENDARY": 15
+    }
+  },
+  {
+    "id": "d73e8030-7fbd-40fd-93c7-303fb5ad30a8",
+    "cratesBalance": {
+      "RARE": 10,
+      "EPIC": 12,
+      "COMMON": 5
+    }
+  },
+  {
+    "id": "0d97dd56-b955-4ba2-bbe6-8cbaaeb2a06e",
+    "cratesBalance": {
+      "RARE": 17,
+      "EPIC": 9,
+      "COMMON": 8
+    }
+  },
+  {
+    "id": "1c7b2a88-43c9-4e10-9030-666d09593d96",
+    "cratesBalance": {
+      "EPIC": 23,
+      "COMMON": 3,
+      "LEGENDARY": 2
+    }
+  },
+  {
+    "id": "76f8ef6a-7d30-4ef6-8ae0-6f533391d8ce",
+    "cratesBalance": {
+      "RARE": 3,
+      "EPIC": 1,
+      "COMMON": 10,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "723dec5c-066e-4d59-96dd-014f58548b2b",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 5,
+      "COMMON": 2,
+      "LEGENDARY": 6
+    }
+  },
+  {
+    "id": "0014e6ee-43ff-4816-9502-a6ab64a2c6d9",
+    "cratesBalance": {
+      "RARE": 2,
+      "COMMON": 2,
+      "LEGENDARY": 17
+    }
+  },
+  {
+    "id": "73accce4-8264-45f6-8fc3-5ef60955a172",
+    "cratesBalance": {
+      "RARE": 5,
+      "COMMON": 6,
+      "LEGENDARY": 12
+    }
+  },
+  {
+    "id": "68bc835b-bb04-4bc8-a9a1-569bb93093ed",
+    "cratesBalance": {
+      "RARE": 18,
+      "COMMON": 12
+    }
+  },
+  {
+    "id": "a3098556-f044-4728-affb-022e922f7804",
+    "cratesBalance": {
+      "RARE": 6,
+      "EPIC": 9,
+      "LEGENDARY": 2
+    }
+  },
+  {
+    "id": "bf98bc06-ef08-4c47-aeb4-6e6368d00618",
+    "cratesBalance": {
+      "RARE": 14,
+      "COMMON": 8,
+      "LEGENDARY": 6
+    }
+  },
+  {
+    "id": "c090edaa-ae38-4791-87bb-081dfdf8c602",
+    "cratesBalance": {
+      "RARE": 9,
+      "LEGENDARY": 17
+    }
+  },
+  {
+    "id": "dbed35b0-a7ba-423e-8b5f-e318db29fa67",
+    "cratesBalance": {
+      "RARE": 12,
+      "LEGENDARY": 30
+    }
+  },
+  {
+    "id": "dac27614-8402-4aa1-bff3-3f0f5d0e5e57",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 4,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "04fbb1f5-7262-4fe8-87df-718a282db62d",
+    "cratesBalance": {
+      "EPIC": 2,
+      "COMMON": 12,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "99cdb3d1-9e35-495d-85c1-c8ad0f651da8",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 9,
+      "LEGENDARY": 4
+    }
+  },
+  {
+    "id": "6c426ac9-4587-456f-b3d7-745e75d5deea",
+    "cratesBalance": {
+      "RARE": 12,
+      "COMMON": 4,
+      "LEGENDARY": 4
+    }
+  },
+  {
+    "id": "6b122eb0-4b7f-445a-82f9-1f176369a3d7",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 5,
+      "LEGENDARY": 7
+    }
+  },
+  {
+    "id": "1d41174c-c864-453f-af32-e22d217c81ed",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 9,
+      "COMMON": 7
+    }
+  },
+  {
+    "id": "398576ff-e882-4c13-b99b-e419e40e01ba",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 2,
+      "COMMON": 5,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "e29bf893-4c42-41aa-8103-fe01df679764",
+    "cratesBalance": {
+      "RARE": 1,
+      "EPIC": 12,
+      "LEGENDARY": 14
+    }
+  },
+  {
+    "id": "e5c3a23e-c43b-4518-b6b7-bc5e295deb89",
+    "cratesBalance": {
+      "RARE": 10,
+      "EPIC": 10,
+      "COMMON": 8,
+      "LEGENDARY": 8
+    }
+  },
+  {
+    "id": "46c6745b-7b7d-46ee-a229-6444aee76367",
+    "cratesBalance": {
+      "RARE": 15,
+      "EPIC": 17,
+      "COMMON": 3
+    }
+  },
+  {
+    "id": "a9e6d91f-95ee-4385-a993-705e094686f1",
+    "cratesBalance": {
+      "RARE": 8,
+      "EPIC": 12
+    }
+  },
+  {
+    "id": "ced75e14-b3b3-4b4b-af14-869dd3ff29a4",
+    "cratesBalance": {
+      "RARE": 14,
+      "EPIC": 5,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "17909c23-78a4-4136-be25-9be8209f6d9a",
+    "cratesBalance": {
+      "RARE": 2,
+      "EPIC": 9,
+      "LEGENDARY": 13
+    }
+  },
+  {
+    "id": "2209004c-cc7f-4b9b-8674-fa0e8fdd50ef",
+    "cratesBalance": {
+      "RARE": 14,
+      "COMMON": 6,
+      "LEGENDARY": 6
+    }
+  },
+  {
+    "id": "97e33679-30ae-49b9-9ac0-94dd4c3b3042",
+    "cratesBalance": {
+      "RARE": 2,
+      "EPIC": 12,
+      "COMMON": 5,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "10e602b4-51d8-4851-a07b-ae81981d1ed5",
+    "cratesBalance": {
+      "RARE": 22,
+      "EPIC": 8
+    }
+  },
+  {
+    "id": "a09790be-7e3e-4bf4-bc55-de6a1d6ef359",
+    "cratesBalance": {
+      "RARE": 18,
+      "COMMON": 16,
+      "LEGENDARY": 1
+    }
+  },
+  {
+    "id": "579721d5-5eee-48ff-8ede-5e44eccd85e9",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 10,
+      "COMMON": 5,
+      "LEGENDARY": 11
+    }
+  },
+  {
+    "id": "008ffe42-229c-4f2a-9343-f42c4a25aede",
+    "cratesBalance": {
+      "RARE": 14,
+      "COMMON": 6,
+      "LEGENDARY": 9
+    }
+  },
+  {
+    "id": "47d687dd-a30a-40bc-89a0-6f8850f91198",
+    "cratesBalance": {
+      "RARE": 7,
+      "EPIC": 6,
+      "COMMON": 14,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "a6c9b66d-4cec-4123-971f-4726e2ddc97a",
+    "cratesBalance": {
+      "EPIC": 17,
+      "COMMON": 16,
+      "LEGENDARY": 8
+    }
+  },
+  {
+    "id": "e4615f40-aa47-4713-aebf-5fbbf5ff9d79",
+    "cratesBalance": {
+      "RARE": 9,
+      "EPIC": 8
+    }
+  },
+  {
+    "id": "6207216c-9c60-4d9e-9862-8ac1ea219aec",
+    "cratesBalance": {
+      "RARE": 6,
+      "EPIC": 17,
+      "LEGENDARY": 2
+    }
+  },
+  {
+    "id": "0be350e9-6e0e-42b6-a607-ae67eb10ca39",
+    "cratesBalance": {
+      "EPIC": 19,
+      "COMMON": 1,
+      "LEGENDARY": 14
+    }
+  },
+  {
+    "id": "ab22b571-62d9-4fee-ba32-f5b87ee6f8f4",
+    "cratesBalance": {
+      "EPIC": 12,
+      "COMMON": 6,
+      "LEGENDARY": 7
+    }
+  },
+  {
+    "id": "d2377899-6177-4dde-99db-13276f0fb908",
+    "cratesBalance": {
+      "RARE": 8,
+      "EPIC": 4,
+      "COMMON": 5,
+      "LEGENDARY": 3
+    }
+  },
+  {
+    "id": "a6553d5d-59b1-466d-92ce-450d2d741e9f",
+    "cratesBalance": {
+      "RARE": 2,
+      "EPIC": 24,
+      "LEGENDARY": 3
+    }
+  }
+]
